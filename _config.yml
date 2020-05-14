@@ -42,7 +42,7 @@ avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: 
-remote_theme:  kg6zvp/prologue
+remote_theme:  chrisbobbe/jekyll-theme-prologue
 url: "" # the base hostname & protocol for your site
 
 # Social settings
