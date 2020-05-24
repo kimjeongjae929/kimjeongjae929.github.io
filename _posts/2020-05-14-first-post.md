@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "프로젝트 진행 사항"
+title:  "Oss Project"
 date:   2020-05-24 19:07:36 +0530
 ---
 *프로젝트 주제 선정 
