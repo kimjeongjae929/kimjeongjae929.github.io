@@ -1,14 +1,15 @@
 ---
 layout: post
-title:  "Hello, Jekyll"
-date:   2019-05-23 21:03:36 +0530
+title:  "프로젝트 선정 과정"
+date:   2020-05-24 19:09:30 +0530
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 
-![texture theme preview](https://images.unsplash.com/photo-1500322969630-a26ab6eb64cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80)
+각자 조사해온 프로젝트 중 투표를 통하여 주제 2개를 고른 후 그 2개 중 재투표를 실시하여 선정함
+아래는 처음에 각자 조사해온 프로젝트
+*파이썬을 이용한 알고리즘 정리 0
+*tensorflow 2
+*파이썬 이용 머신러닝 알고리즘 3
+*pytorch-tutorial 3
+*COVID-19 3
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+이 후 재투표와 주제를 좀 더 구체화 하여 선정된 최종 주제 : 여러 언어를 이용한 알고리즘 분석
